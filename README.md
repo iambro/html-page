@@ -7,7 +7,7 @@ Recruitment task
 * [Live page](#live-page)
 
 ## General info
-This project is a recruitment task. Simple webpage containing elements according to task scheme.
+This project is a recruitment task. Simple webpage containing elements according to task scheme. The layout works till width 774px. Below this width, boxes are fitted in "mobile-way".
 
 ## Technologies
 Project is created with:
